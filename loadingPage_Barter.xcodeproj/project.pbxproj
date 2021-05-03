@@ -11,6 +11,7 @@
 		84B96E50263DE7C30078977B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B96E4F263DE7C30078977B /* ContentView.swift */; };
 		84B96E52263DE7C60078977B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84B96E51263DE7C60078977B /* Assets.xcassets */; };
 		84B96E55263DE7C60078977B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84B96E54263DE7C60078977B /* Preview Assets.xcassets */; };
+		84B96E6D263FA8EB0078977B /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B96E6C263FA8EB0078977B /* Chat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		84B96E51263DE7C60078977B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84B96E54263DE7C60078977B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		84B96E56263DE7C60078977B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84B96E6C263FA8EB0078977B /* Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				84B96E4D263DE7C30078977B /* loadingPage_BarterApp.swift */,
 				84B96E4F263DE7C30078977B /* ContentView.swift */,
+				84B96E6C263FA8EB0078977B /* Chat.swift */,
 				84B96E51263DE7C60078977B /* Assets.xcassets */,
 				84B96E56263DE7C60078977B /* Info.plist */,
 				84B96E53263DE7C60078977B /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84B96E50263DE7C30078977B /* ContentView.swift in Sources */,
+				84B96E6D263FA8EB0078977B /* Chat.swift in Sources */,
 				84B96E4E263DE7C30078977B /* loadingPage_BarterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
